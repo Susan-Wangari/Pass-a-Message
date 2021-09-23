@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+#text {
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#send {
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+section {
+    background-color: grey;
+     width: 500px;
+     margin-left: 400px;
+}
